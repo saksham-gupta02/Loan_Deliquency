@@ -2,8 +2,6 @@
 What if we can predict who will return the loan on time and who doesn't ? Great na, we can minimize the bank loss.
 Given Data of loan borrower we need to predict who will pay the installment on time and who might skip. Its a huge burden on bank when someone doesn't pay the loan back. Sometimes its just delay in paying installment while there are some who took a huge amount of money and run away.
 
-Analytics Vidhya - India ML Hiring Hackathon 2019
-
 Approach
 -	Data – Preprocessing and Recursive Feature Engineering
 -	First loaded the training data
